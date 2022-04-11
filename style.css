@@ -1,7 +1,10 @@
 body{
-    background-color: aqua;
+    background-color:honeydew;
 }
-
+body div nav li a{
+    color: blue;
+    background-color: chartreuse;
+}
 /* 
 id is used to give a unique identity to an element, 
 let say we have 100's of h2 in our document 
