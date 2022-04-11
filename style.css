@@ -2,9 +2,11 @@ body{
     background-color: aqua;
 }
 
-/* id is used to give a unique identity to an element, 
+/* 
+id is used to give a unique identity to an element, 
 let say we have 100's of h2 in our document 
-so to give unique identity to an speific h2 or any other selector we use id */
+so to give unique identity to an speific h2 or any other selector we use id 
+*/
 #pq{
     text-align: center;
     font-size: 30px;
